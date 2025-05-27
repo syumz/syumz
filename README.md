@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/springboot-DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=Java&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
 </div>
 
@@ -12,7 +12,7 @@
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/springboot-DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=Java&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
 </div>
 
